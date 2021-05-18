@@ -1,10 +1,10 @@
-Copyright 2020 by NullCode.
+Copyright 2021 by NullCode.
 
 How to Enable WSL-1:
 
 1) Open the WSL Management.bat and press 1; Hit enter.
 2) Done! WSL-1 has been activated.
-3) Now download whatever distro you want by clicking on the Download Distro.bat [Btw there are more distros on the Microsoft Store. These are only if you dw use the Store or your store does not work (like me)].
+3) Now download whatever distro you want by clicking on the Download Distro.bat [By the way there are more distros on the Microsoft Store. These are only if you don't want to use the Store or your store does not work (like mine)].
 4) After you downloaded the distro using my software; click on Install Distro.bat [It will detect the distro automatically and install it for you].
 
 Now your distro has been installed! Open Start Menu, and you will see it there. 
