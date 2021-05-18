@@ -1,5 +1,5 @@
 @echo off
-@title Distro Downloader
+title Distro Downloader
 cls
 color 3
 rem Made by Ishaq [NullCode on XDA]!
