@@ -14,7 +14,7 @@ set "batchPath=""%batchPath%"""
 IF '%1'=='' (echo.) else (echo.)
 :EndArgLoop
 ECHO Set UAC = CreateObject^("Shell.Application"^) > "%temp%\OEgetPrivileges.vbs" & ECHO UAC.ShellExecute "cmd", "/c ""!batchPath! !batchArgs!""", "", "runas", 1 >> "%temp%\OEgetPrivileges.vbs"
-"%temp%\OEgetPrivileges.vbs" & del "%temp%\OEgetPrivileges.vbs" 
+"%temp%\OEgetPrivileges.vbs" & del "%temp%\OEgetPrivileges.vbs" & exit /b 0
 
 :START
 cls & title Part 1 of Enabling WSL 2 & color 3
