@@ -1,0 +1,19 @@
+Copyright 2020 by NullCode.
+
+How to Enable WSL-1:
+
+1) Open the WSL Management.bat and press 1; Hit enter.
+2) Done! WSL-1 has been activated.
+3) Now download whatever distro you want by clicking on the Download Distro.bat [Btw there are more distros on the Microsoft Store. These are only if you dw use the Store or your store does not work (like me)].
+4) After you downloaded the distro using my software; click on Install Distro.bat [It will detect the distro automatically and install it for you].
+
+Now your distro has been installed! Open Start Menu, and you will see it there. 
+
+How to Disable WSL-1:
+
+1) Open the WSL Management.bat and press 2; Hit enter.
+2) Wait for a while and Done! WSL has been disabled.
+
+Mandatory: Open Start Menu, choose your distro. Right Click it and press Uninstall. [Now reboot your machine].
+
+If you liked my work please goto the XDA Developers thread and hit Thanks. Or donate :)
