@@ -1,0 +1,15 @@
+Copyright 2021 by NullCode 
+
+# DO NOT DO ANYTHING to the wsl_update file. It is the Linux kernel and it gets called and installed accordingly.
+# Make sure you are on Windows 10 20H1 [also called 2004]
+> You can do this by pressing Windows Key + R; then typing 'winver' there. If you see Version 2004, you're all good. 
+
+1) Execute 'Enabling WSL #1.bat'.
+2) Your system will complete the things and automatically restart after 15 seconds [if it doesn't, then do it yourself].
+3) After rebooting, execute 'Enabling WSL #2.bat' and follow instructions.
+4) After that, click on Download Distro.bat and download the distro you want [I recommend Kali Linux].
+5) After you download the Linux distro, run 'Install Distro.bat'. It will detect the distro and install it for you.
+
+Finally open start menu and run the distro. It will do initial setup and instantly land you to the shell. I won't explain further, just Google anything else that you need :)
+
+If you found this helpful and it saved your precious time, please donate. It means a lot!
