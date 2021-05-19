@@ -5,7 +5,9 @@ It is basically a set of scripts you can use to enable/disable WSL [(Windows Sub
 
 ## Minimum system requirements
 - A 64 bit computer with Windows 10
-- Also needs to be version 1607+ (you can find your OS' version using `winver`)
+- For WSL-1 = Version needs to be 1607+ 
+- For WSL-2 = Version needs to be 20H1+ 
+- (You can find your OS' version using `winver`)
 - Curl.exe in your PATH (I will be removing curl dependency soon)
 
 ## Things still left
