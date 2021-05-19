@@ -1,7 +1,7 @@
 # WSL-Utilities by NullCode
 
 ## What is this?
-It is basically a set of scripts you can use to enable/disable WSL (Windows Subsystem for Linux) and install some distros quickly. I thought this would be useful to people when I was 10, so here you are!
+It is basically a set of scripts you can use to enable/disable WSL [(Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/about) and install some distros quickly. I thought this would be useful to people when I was 10, so here you are!
 
 ## Minimum system requirements
 - A 64 bit computer with Windows 10
